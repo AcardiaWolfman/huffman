@@ -1,0 +1,44 @@
+III.-  Cuestionario
+
+1.	Defina que es un nodo en un circuito eléctrico
+un nodo es un punto donde se cruzan dos o más elementos de circuitos, sea una fuente de voltaje o corriente, resistencias, capacitores, inductores, etc.
+
+2.	Defina que es el voltaje de nodo.
+La defiicion de nodo es la unión de dos o mas elementos sin embargo un nodo también alberga un significado importante al hablar de su voltaje. Un nodo puede ser una referencia de un voltaje contra masa
+
+3.	¿A que se le llama nodo de referencia?
+Un nodo de referencia es aquel que se usa para calcular la diferencia de voltajes al hacer el análisis nodal, generalmente se usa la tierra y le corresponde un voltaje cero
+4.	Describa en forma breve en que consiste el método de nodos.
+El método de nodos principalmente consisten en resolver, obtener los valores que tienen las tensiones en todas las resistencias que haya en el circuito. Conociendo estos valores se pueden obtener otros datos como: corrientes, potencias, etc., en todos los elementos del circuito. El análisis de nodos se basa en la ley de corrientes de Kirchoff
+
+5.	Demuestre matemáticamente que la potencia promedio en un elemento reactivo es de cero watts.
+ 
+
+
+IV.- Conclusiones
+En el análisis de nodos se escribe una ecuación para cada nodo, con condición que la suma de esas corrientes sea igual a cero en cualquier instante, por lo que una carga Q nunca puede acumularse en un nodo. Estas corrientes se escriben en términos de las tensiones de cada nodo del circuito. 
+Es de suma importancia tomar en cuenta las simulaciones realizadas por un software, los cálculos hechos a mano y las mediciones en el laboratorio. Podemos concluir con la práctica realizada que los métodos analíticos y las medicions son muy similares, aunque fue de mucha importancia tener cuidado al momento de hacer buen uso de los instrumentos de medición.
+Esta práctica nos deja de manera clara la importancia de la tierra como nodo de referencia para realizar bien los cálculos. Además de la importancia de este método para resolver un circuito eléctrico. Conocer de manera experimental es muy importante para saber si es correcto el cálculo que realizamos en el aula
+
+
+
+Jiménez López Israel
+
+Después de haber participado en la realización de la práctica de leyes método de nodos puedo concluir que hemos encontrado de forma teórica y la practica para conocer los valores en un circuito electrico. Además de confirmarlas al observar los valores obtenidos tanto de forma teórica como de forma experimental, observando que la diferencia entre estas es mínima, por lo tanto puedo concluir en que el método de nodos se cumplen. En cuanto a las mediciones, es muy importante  la lectura correcta de las mismas mediciones y tener en cuenta que siempre hay una mínima imprecisión de los instrumentos empleados para registrarlas.
+
+
+VI.- Bibliografía
+Circuitos eléctricos: 
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology
+http://www.fceia.unr.edu.ar/tci/utiles/Apuntes/Cap%209_2013%20POT.pdf
+
+Fundamentos de circuitos eléctricos                                                                                                  charles k Alexander, Matthew O.O S adiku                                                                                                mC Graw Hill                                                                                                                                  Mexico 203 
+
+
+
+
+
+
+
+
+	
