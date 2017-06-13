@@ -159,9 +159,6 @@ int main(int argc, char *argv[])
       free(t);
    }
    
-   system("PAUSE");
-
-   
 }
 
 /* Actualiza la cuenta de frecuencia del carácter c */
